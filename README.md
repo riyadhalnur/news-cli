@@ -1,4 +1,4 @@
-[![Coverage Status](https://coveralls.io/repos/github/riyadhalnur/news-cli/badge.svg?branch=master)](https://coveralls.io/github/riyadhalnur/news-cli?branch=master) [![Build Status](https://travis-ci.org/riyadhalnur/news-cli.svg?branch=master)](https://travis-ci.org/riyadhalnur/news-cli) [![Build status](https://ci.appveyor.com/api/projects/status/7ndfb8ekaa27ajf1/branch/master?svg=true)](https://ci.appveyor.com/project/riyadhalnur/news-cli/branch/master)
+[![Coverage Status](https://coveralls.io/repos/github/riyadhalnur/news-cli/badge.svg?branch=master)](https://coveralls.io/github/riyadhalnur/news-cli?branch=master) [![Build Status](https://travis-ci.org/riyadhalnur/news-cli.svg?branch=master)](https://travis-ci.org/riyadhalnur/news-cli) [![Build status](https://ci.appveyor.com/api/projects/status/7ndfb8ekaa27ajf1/branch/master?svg=true)](https://ci.appveyor.com/project/riyadhalnur/news-cli/branch/master) [![Dependency Status](https://dependencyci.com/github/riyadhalnur/news-cli/badge)](https://dependencyci.com/github/riyadhalnur/news-cli)
 
 news-cli
 =================
