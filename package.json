@@ -6,7 +6,7 @@
   "repository": "riyadhalnur/news-cli",
   "scripts": {
     "test": "mocha -t 10000 tests/tests.js",
-    "coverage": "istanbul cover mocha --report lcovonly -- -R spec tests/tests.js -t 100000 && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+    "coverage": "istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec tests/tests.js -t 100000 && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage"
   },
   "keywords": [
     "top news",
