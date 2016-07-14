@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "riyadhalnur/news-cli",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha -t 10000 tests/tests.js",
+    "test": "mocha -t 10000 tests/tests.js",
     "coverage": "istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec tests/tests.js -t 100000 && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage"
   },
   "keywords": [
