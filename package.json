@@ -1,6 +1,6 @@
 {
   "name": "news-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Read the top/latest news from 24+ sources in your CLI. Powered by NewsAPI.org",
   "main": "index.js",
   "repository": "riyadhalnur/news-cli",
