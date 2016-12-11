@@ -4,6 +4,8 @@ news-cli
 =================
 Read the top/latest news from 24 sources in your CLI. Powered by [NewsAPI.org](https://newsapi.org/).  
 
+![screenshot](screens/screen.png)
+
 ### Installation  
 `npm install -g news-cli`  
 
@@ -19,6 +21,9 @@ Examples
   $ news
   $ news hackernews --sort top
 ```
+
+### Clickable Links
+If you are using [Hyper](https://hyper.is), you can make the links clickable with the [hyperlinks](https://github.com/zeit/hyperlinks) plugin.  
 
 ### License  
 Licensed under MIT. See [LICENSE](LICENSE) for more information.  
