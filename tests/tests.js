@@ -20,7 +20,7 @@ describe('News CLI', () => {
   });
 
   it('should get the latest news from hackernews', () => {
-    let helper = news('hackernews', {sort: 'latest'});
+    let helper = news('hacker-news', {sort: 'latest'});
     return helper.should.eventually.have.property('articles');
   });
 });
